@@ -1,0 +1,11 @@
+body{
+    background-color: red;
+    text-align: center;
+}
+div{
+    margin-left: 500px;
+    border: black;
+    border-radius: 20px;
+    width: 500px;
+    background: chartreuse;
+}
